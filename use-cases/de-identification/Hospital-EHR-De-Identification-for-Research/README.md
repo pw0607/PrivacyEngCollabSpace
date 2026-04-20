@@ -2,9 +2,9 @@
 
 **Name of Use Case:** Hospital EHR De-Identification for Secondary Research Use
 
-**Primary Focus Area:** Disassociability
+**Primary Focus Area (select one):** Disassociability
 
-**Disassociability Keywords:** K-Anonymity, Anonymization, Information Leakage, Synthetic Data Generation
+**Disassociability Keywords (select any relevant):** K-Anonymity, Anonymization, Information Leakage, Synthetic Data Generation
 
 **Brief Description:** This use case describes how a hospital or health system can de-identify Electronic Health Record (EHR) data to enable secondary use for clinical research, public health reporting, and machine learning model development, while meeting HIPAA Privacy Rule requirements and minimizing re-identification risk for patients.
 
@@ -15,7 +15,7 @@
 
 **GitHub User Serving as POC (or Email Address):** @pw0607
 
-**Affiliation/Organization(s) Contributing:** Independent Researcher
+**Affiliation/Organization(s) Contributing (if relevant):** Independent Researcher
 
 ## For A Hosted Use Case
 
